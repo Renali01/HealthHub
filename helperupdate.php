@@ -1,6 +1,6 @@
 <!-- Task: Updates Number of Beds - helper php (not shown to users) that updates number of beds with query-->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <?php
 include 'connectdb.php'; // connects to db

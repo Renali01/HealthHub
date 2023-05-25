@@ -1,7 +1,7 @@
 /*
 Javascript file that redirects user to correct webpage based on selection on main menu
-Programmer: 08
-Date: Nov 25, 2022
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 */
 
 function SelectTask(){

@@ -1,6 +1,6 @@
 <!-- Task: Updates Number of Beds - landing page -->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <!DOCTYPE html>
 <html>

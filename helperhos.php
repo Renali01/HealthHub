@@ -1,6 +1,6 @@
 <!-- Task: Gets Hospital Information - helper page that displays tables of info based on user selection -->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <!DOCTYPE html>
 <html>

@@ -1,6 +1,6 @@
 <!-- Task: View Doctor Info with Selected Speciality - helper page that produces results based on user selected speciality -->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <!DOCTYPE html>
 <html>

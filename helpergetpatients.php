@@ -1,6 +1,6 @@
 <!-- Task: Get Patients of Selected Doctor - helper page that produces results based on user's selected doctor -->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <!DOCTYPE html>
 <html>

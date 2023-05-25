@@ -1,6 +1,6 @@
 <!-- Task: Insert New Doctor - helper page not shown to users that checks inputs and inserts correct inputs into database with query-->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <?php
 include 'connectdb.php'; // connect to database

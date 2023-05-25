@@ -1,6 +1,6 @@
 <!-- Task: Assign Doctor to Patient - helper php (not visible to users) that checks if assignment is valid and if yes, assigns with query -->
-<!-- Programmer: 08 -->
-<!-- Date: Nov 25 -->
+<!-- Programmer: Rena Li -->
+<!-- Date: Nov 25, 2022 -->
 
 <?php
 include 'connectdb.php'; // connect to database
