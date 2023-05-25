@@ -1,6 +1,8 @@
 # Hospital Database Management System
 
-This project is a Hospital Database Management System implemented as a website using CSS, HTML, PHP, and MySQL. The system allows users to update and view information stored in the hospital database. The following tasks can be performed by the user:
+This project is a Hospital Database Management System implemented as a website using CSS, HTML, PHP, and MySQL. The system allows users to update and view information stored in the hospital database.
+
+### Website: http://cs3319.gaul.csd.uwo.ca/vm158/a3yuexiu/assignment3/website.php
 
 ## Functionality
 ### List Doctors:
