@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Rena's Hospital Website</title>
+</head>
+<body>
+<?php
+include 'connectdb.php';
+?>
+<h1>Welcome to the Hospital</h1>
+<h2>Our Doctors</h2>
+
+
+Order By:
+<input type="radio" name="orderby"
+<?php if (isset($orderby) && $orderby=="last") echo "checked";?> value="last">Last Name
+<input type="radio" name="orderby"
+<?php if (isset($orderby) && $orderby=="birth") echo "checked";?> value="last">Birth Date
+<input type="radio" name="desc"
+<?php if (isset($desc) && $orderby=="Descending") echo "checked";?> value="last">Descending (Default is Ascending)
+<input type="submit" name="submit" value="Submit">
+
+
+<h2>Doctor Specialties</h2>
+Select a Specialty:
+<select name="selectspec">
+	<option value="1">Select Here</option>
+	<option value="$row["speciality"]
+
+
+
+
+
+<?php
+mysqli_close($connection);
+?>
+</body>
+</html>

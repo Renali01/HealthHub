@@ -1,0 +1,35 @@
+body {
+    margin: 25px;
+    background-color: rgb(199, 231, 243);
+    font-family: serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: rgb(14, 167, 214);
+  }
+
+  /* Applies to all <h1>...</h1> elements. */
+  h1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Tangerine', serif;
+    margin-top: 5px;
+    color: rgb(14, 167, 214);
+    text-shadow: 4px 4px 4px #aaa;
+   }
+
+  h2 {
+    font-size: 50px;
+    font-weight: normal;
+    font-family: 'Tangerine', serif;
+    margin-top: 5px;
+    color: rgb(14, 167, 214);
+  }
+
+  h3 {
+    font-size: 35px;
+    font-weight: normal;
+    font-family: 'Tangerine', serif;
+    margin-top: 5px;
+    color: rgb(14, 167, 214);
+  }
+
