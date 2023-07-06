@@ -2,8 +2,6 @@
 
 This project is a Hospital Database Management System implemented as a website using CSS, HTML, PHP, and MySQL. The system allows users to update and view information stored in the hospital database.
 
-### Website: http://cs3319.gaul.csd.uwo.ca/vm158/a3yuexiu/assignment3/website.php
-
 ## Functionality
 ### List Doctors:
 This functionality allows the user to view all the information about the doctors in the database. The user can choose to order the data either by Last Name or Birthdate. Additionally, the user can specify whether the order should be in ascending or descending order.
