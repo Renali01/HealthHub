@@ -1,6 +1,6 @@
 # Hospital Database Management System
 
-Welcome to the Hospital Database Management System! This project is a web-based application implemented using CSS, HTML, PHP, and MySQL, designed to streamline the management of hospital information. It offers an intuitive interface for users to access, update, and view information stored in the hospital database. Whether you are a hospital administrator, medical professional, or a patient, our system will help you efficiently manage hospital data and patient care.
+Welcome to the Hospital Database Management System! This project is a web-based application implemented using JavaScript, CSS, HTML, PHP, and MySQL, designed to streamline the management of hospital information. It offers an intuitive interface for users to access, update, and view information stored in the hospital database. Whether you are a hospital administrator, medical professional, or a patient, our system will help you efficiently manage hospital data and patient care.
 
 ## Functionality
 ### List Doctors:
